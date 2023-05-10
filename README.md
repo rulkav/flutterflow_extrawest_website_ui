@@ -30,7 +30,7 @@
 ## How to run the app
 - **Clone the project.**
 ```shell
-git clone https://github.com/ruslan-volkhov-ew/flutterflow_extrawest_website_ui.git
+git clone https://github.com/rulkav/flutterflow_extrawest_website_ui.git
 ```
 - **Open the project.**
 ```shell
